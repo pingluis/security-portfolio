@@ -10,7 +10,7 @@ Contact: [luisfmartinez1@outlook.com] · [www.linkedin.com/in/luis-martinez-9b32
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail |Week_1_Report.odt|
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail |[Week_1_Report.odt]|
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
